@@ -2,10 +2,9 @@
     "[python]": {
         "editor.bracketPairColorization.enabled": false,
         "editor.guides.bracketPairs": false,
-        "editor.tabSize": 4
+        "editor.tabSize": 2
     },
     "editor.bracketPairColorization.enabled": true,
-    "editor.detectIndentation": false,
     "editor.fontSize": 14,
     "editor.guides.bracketPairs": true,
     "editor.minimap.enabled": false,
@@ -17,7 +16,6 @@
     ],
     "editor.showFoldingControls": "always",
     "editor.snippetSuggestions": "top",
-    "editor.tabSize": 2,
     "emmet.includeLanguages": {
         "erb": "html"
     },
@@ -56,7 +54,6 @@
         "**/tmp/**": true,
         "**/vendor/**": true
     },
-    "git.enabled": false,
     "notebook.diff.ignoreMetadata": true,
     "notebook.lineNumbers": "on",
     "notebook.markup.fontSize": 13,
@@ -80,4 +77,11 @@
     "workbench.settings.useSplitJSON": true,
     "workbench.startupEditor": "newUntitledFile",
     "workbench.panel.defaultLocation": "right",
+    "workbench.colorTheme": "Palenight (Mild Contrast)",
+    "[html]": {
+      "editor.defaultFormatter": "vscode.html-language-features"
+    },
+    "files.autoSave": "afterDelay",
+    "editor.inlineSuggest.enabled": true,
+    "editor.tabSize": 2,
 }
